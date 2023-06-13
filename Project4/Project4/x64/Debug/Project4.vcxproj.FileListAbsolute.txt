@@ -1,0 +1,8 @@
+C:\Users\reyn3\OneDrive\Desktop\VSProj\CLR\Project4\Project4\x64\Debug\Project4.vcxproj.AssemblyReference.cache
+C:\Users\reyn3\OneDrive\Desktop\VSProj\CLR\Project4\Project4\x64\Debug\Project4.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\reyn3\OneDrive\Desktop\VSProj\CLR\Project4\Project4\x64\Debug\Project4.MyForm.resources
+C:\Users\reyn3\OneDrive\Desktop\VSProj\CLR\Project4\Project4\x64\Debug\Project4.vcxproj.GenerateResource.cache
+C:\Users\reyn3\Desktop\ВУЗ\VSProj\CLR\Project4\Project4\x64\Debug\Project4.vcxproj.AssemblyReference.cache
+C:\Users\reyn3\Desktop\ВУЗ\VSProj\CLR\Project4\Project4\x64\Debug\Project4.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\reyn3\Desktop\ВУЗ\VSProj\CLR\Project4\Project4\x64\Debug\Project4.MyForm.resources
+C:\Users\reyn3\Desktop\ВУЗ\VSProj\CLR\Project4\Project4\x64\Debug\Project4.vcxproj.GenerateResource.cache
