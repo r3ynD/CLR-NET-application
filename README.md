@@ -7,5 +7,5 @@ C++ CLR application for calculating the area and points of a figure with the cal
 
 <h3>Working program:</h3>
 
-![Видео без названия — сделано в Clipchamp](https://github.com/r3ynD/CLR-NET-application/assets/127958857/cd86b373-1d5c-4636-8a7a-1ce6cf8ec3f4)
+<img src="https://github.com/r3ynD/CLR-NET-application/assets/127958857/cd86b373-1d5c-4636-8a7a-1ce6cf8ec3f4" width=70%> 
 
